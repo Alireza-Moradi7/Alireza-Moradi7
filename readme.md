@@ -1,24 +1,32 @@
-<h1 align="center">Hey 👋, I'm Alireza Moradi</h1>
+<div align="center">
 
-<p align="center">
-  I am a passionate 
-  <b>JavaScript Full Stack Developer</b>
-  with a strong focus on <br />creating dynamic and 
-  responsive web applications.
-</p>
+# Hey 👋, I'm Alireza Moradi
 
-<div>
-  <ul>
-    <li>⭐ Every day is an opportunity to get better</li>
-    <li>👨‍💻 I'm currently working on <a href="">this Project</a></li>
-    <li>🪴 I'm currently learning <b>TypeScript</b></li>
-    <li>💬 Ask me about <b>Web Development with JavaScript</b></li>
-    <li>💫 Fun Fact <b>I ❤️ 💪 & 🎸</b></li>
-  </ul>
 </div>
 
 <div align="center">
-  <h3>⚒️ Languages & Tools ⚒️</h3>
+
+  I am a passionate 
+  **JavaScript Full Stack Developer**
+  with a strong focus on creating dynamic and 
+  responsive web applications.
+
+</div>
+
+- ⭐ Every day is an opportunity to get better
+
+- 👨‍💻 I'm currently working on [this Project]()
+
+- 🪴 I'm currently learning **TypeScript**
+
+- 💬 Ask me about **Web Development with JavaScript**
+
+- 💫 Fun Fact **I ❤️ 💪 & 🎸**
+
+<div align="center">
+
+  ### ⚒️ Languages & Tools ⚒️
+
   <img 
     src="./pictures/html5.svg" 
     alt="Html5 logo"
@@ -70,27 +78,26 @@
 </div>
 
 <div align="center">
-  <h3>🎗️ Github Stats 🎗️</h3>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Alireza-Moradi7&show_icons=true&hide_border=true&icon_color=42b883&"
-    alt="github-stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Moradi7&hide_border=true&layout=compact&langs_count=10"
-    alt="github-top-langs"
-  />
+
+  ### 🎗️ Github Stats 🎗️
+
+  ![github-stats](https://github-readme-stats.vercel.app/api?username=Alireza-Moradi7&show_icons=true&hide_border=true&icon_color=42b883&)
+
+  ![github-top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza-Moradi7&hide_border=true&layout=compact&langs_count=10)
+
 </div>
 
 <div align="center">
-  <h3>🤝 Connect With Me 🤝</h3>
-  <a href="mailto:me.alirezamoradi@gmail.com" target="_blank">
+
+  ### 🤝 Connect With Me 🤝
+  <a href="mailto:me.alirezamoradi@gmail.com">
     <img 
       src="./pictures/gmail.svg"
       alt="Gmail logo" 
       width="30"
     />
   </a>
-  <a href="https://www.linkedin.com/in/alireza-moradi-72a337266/" target="_blank">
+  <a href="https://www.linkedin.com/in/alireza-moradi-72a337266/">
     <img 
       src="./pictures/linkedIn.svg"
       alt="LinkedIn logo" 
