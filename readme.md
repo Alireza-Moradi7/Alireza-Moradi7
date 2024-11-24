@@ -17,7 +17,7 @@
 
 - 👨‍💻 I'm currently working on [this Project]()
 
-- 🪴 I'm currently learning **TypeScript**
+- 🪴 I'm currently learning **TypeScript & ReactJs**
 
 - 💬 Ask me about **Web Development with JavaScript**
 
@@ -73,6 +73,12 @@
     src="./pictures/typescript.svg" 
     alt="TypeScript logo" 
     title="TypeScript"
+    width="30"
+  />
+  <img 
+    src="./pictures/reactJs.svg" 
+    alt="ReactJs logo" 
+    title="ReactJs"
     width="30"
   />
 </div>
