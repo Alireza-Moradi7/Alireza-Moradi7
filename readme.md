@@ -81,6 +81,12 @@
     title="ReactJs"
     width="30"
   />
+  <img 
+    src="./pictures/redux.svg" 
+    alt="Redux logo" 
+    title="Redux"
+    width="30"
+  />
 </div>
 
 <div align="center">
