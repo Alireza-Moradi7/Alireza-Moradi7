@@ -87,6 +87,12 @@
     title="Redux"
     width="30"
   />
+  <img 
+    src="./pictures/jest.svg" 
+    alt="Jest logo" 
+    title="Jest"
+    width="30"
+  />
 </div>
 
 <div align="center">
