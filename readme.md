@@ -87,6 +87,12 @@
     title="Redux"
     width="30"
   />
+  <img 
+    src="./pictures/Vitest.svg" 
+    alt="Vitest logo" 
+    title="Vitest"
+    width="30"
+  />
 </div>
 
 <div align="center">
